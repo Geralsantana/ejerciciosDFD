@@ -1,0 +1,48 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+6
+Nombre
+3
+' '
+8
+Apellido
+3
+' '
+14
+identificacion
+3
+' '
+6
+2
+5
+email
+3
+' '
+7
+celular
+2
+''
+5
+1
+54
+Nombre, edad, Apellido, identificacion, email, celular
+7
+0
+1
+6
+huevos
+13
+4
+0
+13
+4
+1
+150
+'Su nombre es: ', Nombre, 'Su apellido es : ', Apellido, 'Su identificacion es. ', identificiacion, 'Su email es: ', email, 'Su celular es: ', celular
+1

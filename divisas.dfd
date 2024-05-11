@@ -1,0 +1,29 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+30
+'Ingresa cuantos pesos tienes'
+5
+1
+5
+pesos
+6
+2
+3
+usd
+11
+pesos /3900
+2
+er
+10
+pesos/4343
+4
+1
+93
+'Tiene esta cantidad en dolares: ', usd, ' USD', ' Tiene esta cantidad en Euros: ', er, ' ER'
+1

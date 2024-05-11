@@ -1,0 +1,39 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+20
+'Ingresa tu salario'
+5
+1
+3
+sal
+6
+3
+5
+salud
+8
+sal*0.12
+7
+pension
+8
+sal*0.13
+4
+desc
+13
+salud+pension
+6
+1
+3
+sub
+8
+sal-desc
+4
+1
+163
+'Tu salario es: ', sal, ' La salud cuesta: ', salud, ' La pension cuesta: ', pension, ' El total de tu descuento es: ', desc, ' Tu salario con descuento es: ', sub
+1

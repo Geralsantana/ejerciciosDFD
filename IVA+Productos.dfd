@@ -1,0 +1,84 @@
+ Dfd (c)
+1
+1
+1
+0
+1
+68
+Por favor ingresa el valor del producto para calcular el IVA del 19%
+4
+1
+85
+'Por favor ingresa el producto que deseas: 1 para arroz, 2 para carne, 3 para azucar'
+5
+1
+4
+prod
+7
+0
+1
+7
+prod= 1
+7
+0
+1
+8
+prod = 2
+7
+0
+1
+7
+prod= 3
+4
+1
+28
+'Inghresa una opcion valida'
+13
+6
+2
+3
+iva
+9
+2000*0.19
+5
+total
+8
+2000+iva
+4
+1
+35
+'Su azucar cuesta con iva: ', total
+13
+13
+6
+2
+3
+iva
+10
+15000*0.19
+5
+total
+9
+15000+iva
+4
+1
+34
+'Su carne cuesta con iva: ', total
+13
+13
+6
+2
+3
+iva
+9
+2500*0.19
+5
+total
+8
+2500+iva
+4
+1
+34
+'Su arroz con iva cuesta: ', total
+13
+1
